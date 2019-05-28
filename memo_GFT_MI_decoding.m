@@ -1,7 +1,8 @@
 % The following Matlab code implements the GFT-decoder for MI decoding
 % as described in "Connectivity steered Graph Fourier Transform for Motor
 % Imagery BCI Decoding" by K Georgiadis, N Laskaris, S Nikolopoulos and I
-% Kompatsiaris submitted to Journal of Neural Engineering.
+% Kompatsiaris published in Journal of Neural Engineering.
+% https://doi.org/10.1088/1741-2552/ab21fd
 
 clear;
 load SMR_data_examplar.mat
